@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLO output
+runs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
