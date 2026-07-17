@@ -1,5 +1,12 @@
-#  SafeMove Detector
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 
+![YOLOv8](https://img.shields.io/badge/YOLO-v8-green)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
+#  SafeMove Detector
+SafeMove Detector is an AI-powered safety system that uses YOLOv8 and OpenCV to detect animals underneath parked vehicles and alert drivers in real time, helping prevent accidental injuries.
 ### AI-Based Under-Vehicle Animal Detection and Driver Alert System
 
 SafeMove Detector is an AI-powered computer vision system that detects animals underneath parked vehicles in real time and alerts the driver before the vehicle is moved. The project aims to reduce accidental harm to animals that seek shelter beneath parked vehicles.
@@ -38,6 +45,7 @@ SafeMove Detector addresses this problem by providing a real-time AI-based monit
 
 ---
 
+
 ##  Project Structure
 
 ```text
@@ -55,7 +63,6 @@ SafeMove-Detector/
 ├── sounds/
 │   └── alarm sound.wav
 │
-├── screenshots/
 │
 ├── main.py
 ├── README.md
@@ -71,7 +78,7 @@ SafeMove-Detector/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SafeMove-Detector.git
+git clone https://github.com/varshitha0705/SafeMove-Detector.git
 ```
 
 Navigate into the project directory
@@ -98,19 +105,19 @@ python main.py
 
 ###  Safe State
 
-![Safe State](assets/safe_state.png)
+![Safe State](screenshots/safe_state.png)
 
 ---
 
 ###  Cat Detection
 
-![Cat Detection](assets/cat_detection.png)
+![Cat Detection](screenshots/cat_detection.png)
 
 ---
 
 ###  Dog Detection
 
-![Dog Detection](assets/dog_detection.png)
+![Dog Detection](screenshots/dog_detection.png)
 
 ---
 ## Download YOLOv8 Model
@@ -188,7 +195,7 @@ This project is licensed under the MIT License.
 
 ##  Author
 
-**R. Varshitha**
+**R.Varshitha**
 
 B.Tech Computer Science and Engineering
 
@@ -200,4 +207,4 @@ LinkedIn: https://www.linkedin.com/in/varshitha-r-9387632a6/
 
 ---
 
-### ⭐ If you found this project interesting, consider giving it a star on GitHub!
+###  If you found this project interesting, consider giving it a star on GitHub!
