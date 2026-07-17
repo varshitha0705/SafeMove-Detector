@@ -113,7 +113,15 @@ python main.py
 ![Dog Detection](assets/dog_detection.png)
 
 ---
+## Download YOLOv8 Model
 
+Download the pretrained model from Ultralytics:
+
+https://github.com/ultralytics/assets/releases/download/v8.3.0/yolov8n.pt
+
+Place the downloaded file inside:
+
+models/yolov8n.pt
 
 
 ##  Project Demonstration
