@@ -43,12 +43,11 @@ SafeMove Detector addresses this problem by providing a real-time AI-based monit
 ```text
 SafeMove-Detector/
 │
-├── assets/
+├── screenshots/
 │   ├── demo.mp4
 │   ├── safe_state.png
 │   ├── cat_detection.png
 │   ├── dog_detection.png
-│   └── bird_detection.png
 │
 ├── models/
 │   └── yolov8n.pt
